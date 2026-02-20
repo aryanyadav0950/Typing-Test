@@ -302,3 +302,4 @@ function removeTypingListener() {
 
 // Initialize
 loadText();
+
