@@ -13,7 +13,7 @@ This project measures typing speed (WPM), accuracy, elapsed time, and shows erro
 - Shows **Errors** (mismatched characters)          
 - Reset button to try again   
 - Responsive layout for desktop and mobile
- 
+  
 ---
 
 ## 📁 Files in this repo 
