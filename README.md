@@ -5,7 +5,7 @@ This project measures typing speed (WPM), accuracy, elapsed time, and shows erro
           
 ---                        
                                    
-## 🔹 Features     
+## 🔹 Features      
 - Shows a random sample text for typing  
 - Starts timer on first key press                     
 - Calculates **WPM (words per minute)** using standard formula (1 word = 5 characters)
